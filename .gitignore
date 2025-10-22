@@ -1,0 +1,28 @@
+# Docker volumes
+prometheus/data/*
+grafana/data/*
+alertmanager/data/*
+loki/
+
+# Docs (архивные)
+ARCHITECTURE_AUDIT.md
+CHANGELOG.md
+RECONFIGURATION_REPORT.md
+
+# Claude artifacts
+.claude/
+
+# OS
+.DS_Store
+.env.local
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
