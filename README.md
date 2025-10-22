@@ -39,9 +39,8 @@ docker compose up -d
 ## Требования
 
 - Docker и Docker Compose
-- HAProxy с сетью `haproxy_proxy_network`
+- HAProxy с сетью 
 - Открытый порт 8444/tcp
 
 ## Troubleshooting
 
-См. [документацию](./docs/prometheus-docker-stack.md#troubleshooting)
